@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="uiProject.BL.Cars" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAIAAAAEAAAABAAAAQAAiAEAgAwAAJAEA=</HashCode>
+      <FileName>BL\Cars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uiProject.BL.Customers" Collapsed="true">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAgAEAAAAAAAAAAAAAAIEAAECBAABAAA=</HashCode>
+      <FileName>BL\Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uiProject.BL.Muser" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAwACAEMAAwBQAAEAEAAACAAAAAgAAAAA=</HashCode>
+      <FileName>BL\Muser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uiProject.DL.CarsDL" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgCBAAgAAQAAAgAAAABAgAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>DL\CarsDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uiProject.DL.CustomerDL" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAQAAAAEAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uiProject.DL.MuserDL" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAgAAAAAAgAAEABgAwAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>DL\MuserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
